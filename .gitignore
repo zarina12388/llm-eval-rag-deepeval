@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# virtual environment
+venv/
+
+# tool folders
+.deepeval/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/

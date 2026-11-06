@@ -93,4 +93,8 @@ Full outputs are in the `reports/` folder.
 
 - Why LLM outputs need threshold-based scoring instead of exact matching
 - How faithfulness differs from relevancy
+<<<<<<< HEAD
 - How to turn a failing test into a concrete fix and measure the improvement
+=======
+- How to turn a failing test into a concrete fix and measure the improvement
+>>>>>>> a4dad6a1574ffdd36c2aefe12cc5e08af239d424

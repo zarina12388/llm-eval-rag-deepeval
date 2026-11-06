@@ -1,0 +1,19 @@
+AeroBreeze Smart Fan is a ceiling fan with a BLDC motor. At the highest speed (speed 5) it uses only 28 watts of power.
+
+The AeroBreeze Smart Fan comes with a 2 year warranty. The warranty covers manufacturing defects. It does not cover physical damage or damage caused by water.
+
+The remote control uses 2 AAA batteries and works up to a distance of 8 meters.
+
+The fan connects to Wi-Fi networks of 2.4 GHz only. It does not work with 5 GHz networks. To set up Wi-Fi, open the AeroBreeze app, tap Add Device, and hold the Power button on the remote for 5 seconds until the light blinks blue.
+
+You can return the fan within 15 days of delivery if it is unused and in its original packaging. The refund is made within 7 business days after the fan is received back.
+
+The fan has 5 speeds and a Boost mode. Sleep mode lowers the speed step by step over 2 hours and then keeps the lowest speed.
+
+Free installation is done within 48 hours of delivery in major cities. For support, call 1800-123-4567.
+
+To clean the fan, wipe it with a dry or slightly damp cloth. Never spray water on the motor.
+
+The AeroBreeze fan works with Alexa and Google Assistant for voice control.
+
+After a power cut, the fan remembers its last speed and starts again at that speed.
